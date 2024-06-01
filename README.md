@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Web Developer specializing in front-end development.<br>Experienced with all stages of the development cycle for dynamic web projects.<br>Well-versed in numerous programming languages and technologies including HTML, JavaScript, CSS, ReactJS, PostgreSQL, NodeJS.<br>I also have a passion to design modern social media posts and logos with<br>Illustrator and Photoshop
+I'm a Junior Web Developer specializing in front-end development.<br>Experienced with all stages of the development cycle for dynamic web projects.<br>Well-versed in numerous programming languages and technologies including HTML, JavaScript, CSS, ReactJS, NextJS, Firebase, PostgreSQL, NodeJS.<br>I also have a passion to design modern social media posts and logos with<br>Illustrator and Photoshop
 
 
 ## 🌐 Socials:
